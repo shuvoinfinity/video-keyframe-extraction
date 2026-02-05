@@ -1,0 +1,13 @@
+# Core dependencies
+scenedetect[opencv]==0.6.3
+opencv-python==4.13.0
+numpy==2.4.2
+Pillow==10.1.0
+imagehash==4.3.1
+
+# Scientific computing
+scikit-image==0.26.0
+scipy==1.17.0
+
+# Utilities
+tqdm==4.66.1
